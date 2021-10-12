@@ -1,0 +1,47 @@
+.anchor a
+{
+   text-decoration:  none;
+   color:white;
+   margin-right: 30px;
+   font-weight: 400;
+   padding: 14px;
+}
+.anchor
+{
+    background-color: #1a2434;
+    padding: 25px;
+}
+.maindiv
+{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+.container
+{
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.hover a:hover
+{
+    background-color: gray;
+    border-radius: 10px;
+}
+.login
+{
+    background-color: rgb(231, 57, 57);
+    padding-left:10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 10px;
+    text-align: center;
+}
+.title
+{
+    color:white;
+}
+.header
+{
+    text-align: center;
+}

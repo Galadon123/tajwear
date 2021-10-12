@@ -1,0 +1,33 @@
+.imgresize
+{
+  border-radius: 400px;
+  width: 210px;
+  height: 220px;
+}
+.teacherRoom
+{
+   
+   padding-bottom: 20px;
+   padding-top: 10px;
+   background-color: rgb(238, 238, 238);
+   border-radius: 10px ;
+   box-shadow: 04px 4px rgb(22, 19, 19);
+}
+.fontawesome
+{
+  margin-right: 30px;
+}
+.btn
+{
+    padding: 15px;
+    color:white;
+    background-color: rgb(59, 125, 141);
+    border:none;
+    border-radius: 07px;
+    font-weight: 500;
+    font-size: 16px;
+}
+.text
+{
+    text-align: center;
+}
